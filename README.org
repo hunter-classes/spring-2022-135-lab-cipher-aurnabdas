@@ -1,10 +1,10 @@
 * Fall 2021 - Lab Cipher
 
-* Last name:
+* Last name: Das
 
-* First name:
+* First name: Aurnab Das
 
-* GitHub username:
+* GitHub username: aurnabdas
 
 * Notes:
 
